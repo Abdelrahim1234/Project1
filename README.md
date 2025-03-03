@@ -1,8 +1,8 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *Just a Bite*
 
-Submitted by: **Your Name Here**
+Submitted by: **Abdelrahim Osman**
 
-This web app: **insert description**
+This web app: **Finds Halal late night bites within the DMV area and recommends them to users.**
 
 Time spent: **X** hours spent in total
 
