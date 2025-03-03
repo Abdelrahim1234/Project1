@@ -4,7 +4,7 @@ Submitted by: **Abdelrahim Osman**
 
 This web app: **Finds Halal late night bites within the DMV area and recommends them to users.**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
